@@ -26,24 +26,13 @@ Three progressively improved baselines were developed:
 
 ## Dataset
 
-**CamVid**
+### CamVid
 
 CamVid is an urban scene understanding dataset containing pixel-level annotations for road-driving images.
 
 ### Classes
 
-- Sky
-- Building
-- Pole
-- Road
-- Pavement
-- Tree
-- Sign Symbol
-- Fence
-- Car
-- Pedestrian
-- Bicycle
-- Unlabelled
+`Sky` • `Building` • `Pole` • `Road` • `Pavement` • `Tree` • `Sign Symbol` • `Fence` • `Car` • `Pedestrian` • `Bicycle` • `Unlabelled`
 
 ---
 
