@@ -177,8 +177,6 @@ predictions/
 
 # Error Analysis
 
-The project includes a comprehensive error analysis for every baseline.
-
 ## Baseline 1
 
 ### Strengths
